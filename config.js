@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://cheshire.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Blog by Victor',
+  subtitle: 'Python, Django and English Breakfast Tea. Engineering @ Carousell',
+  copyright: 'CC BY-NC-SA 4.0',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 6,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -16,25 +16,21 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About Me',
       path: '/pages/about'
     },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Victor Neo',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Python, Django and English Breakfast Tea.\nEngineering @ Carousell',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: '',
+      telegram: '',
+      twitter: 'victorneo',
+      github: 'victorneo',
+      rss: '',
+      vkontakte: ''
     }
   }
 };
