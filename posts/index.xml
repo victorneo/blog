@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Victor Neo&#39;s Blog</title>
+    <link>https://cheshire.io/posts/</link>
+    <description>Recent content in Posts on Victor Neo&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Tue, 30 Jul 2019 20:30:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://cheshire.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Restarting the Blog</title>
+      <link>https://cheshire.io/posts/new-blog/</link>
+      <pubDate>Tue, 30 Jul 2019 20:30:15 +0800</pubDate>
+      
+      <guid>https://cheshire.io/posts/new-blog/</guid>
+      <description>It’s been about 4 years since the last blog article was written. Over the time, I have collected a series of different thoughts around Engineering and Management, and I am finally taking the time to pen them down into words.
+Here’s to the new blog!</description>
+    </item>
+    
+  </channel>
+</rss>
