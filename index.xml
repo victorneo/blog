@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victor Neo</title>
+    <link>https://cheshire.io/</link>
+    <description>Recent content on Victor Neo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC BY-NC-SA 4.0</copyright>
+    <lastBuildDate>Tue, 30 Jul 2019 20:30:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://cheshire.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Restarting the Blog</title>
+      <link>https://cheshire.io/posts/new-blog/</link>
+      <pubDate>Tue, 30 Jul 2019 20:30:15 +0800</pubDate>
+      
+      <guid>https://cheshire.io/posts/new-blog/</guid>
+      <description>It’s been about 4 years since the last blog article was written. Over the time, I have collected a series of different thoughts around Engineering and Management, and I am finally taking the time to pen them down into words.
+Here’s to the new blog!</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://cheshire.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cheshire.io/about/</guid>
+      <description>Hello. I am Victor, and I am based in sunny Singapore.
+I head up the Engineering team at Carousell, and spend a bit of my time reading through studies and books on management, and primarily use this blog to share my thoughts on them.
+If you are looking for book recommendations on Management or Engineering Management, you can check out my GoodReads list to see what are the top books that I have read and would highly recommend.</description>
+    </item>
+    
+  </channel>
+</rss>
